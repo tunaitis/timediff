@@ -42,9 +42,10 @@ changelog:
 brews:
 - name: timediff
   homepage: https://github.com/tunaitis/homebrew-tools 
-  tap:
+  repository:
     owner: tunaitis
     name: homebrew-tools
+    branch: master
 
 # The lines beneath this are called `modelines`. See `:help modeline`
 # Feel free to remove those if you don't want/use them.
